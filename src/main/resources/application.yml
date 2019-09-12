@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: wopi
+  server:
+    port: 6060
